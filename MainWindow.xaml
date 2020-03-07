@@ -12,6 +12,6 @@
         </Style>
     </Window.Resources>
     <StackPanel VerticalAlignment="Center">
-        <TextBlock Text="WPF1"/>
+        <TextBlock Text="WPF1 CMA LEON MARZO 2020"/>
     </StackPanel>
 </Window>
